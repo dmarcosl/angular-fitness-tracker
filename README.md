@@ -1,3 +1,5 @@
+Project done following the course [Angular (Full App) with Angular Material, Angularfire & NgRx](https://www.udemy.com/angular-full-app-with-angular-material-angularfire-ngrx) by [Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller).
+
 # FitnessTracker
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.1.
