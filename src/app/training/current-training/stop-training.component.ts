@@ -1,5 +1,5 @@
 import {Component, Inject} from '@angular/core';
-import {MAT_DIALOG_DATA} from '@angular/material';
+import {MAT_DIALOG_DATA} from '@angular/material/dialog';
 
 @Component({
   selector: 'app-stop-training',
@@ -7,6 +7,6 @@ import {MAT_DIALOG_DATA} from '@angular/material';
 })
 export class StopTrainingComponent {
 
-  constructor(@Inject(MAT_DIALOG_DATA) private passedData: any){
+  constructor(@Inject(MAT_DIALOG_DATA) private passedData: any) {
   }
 }
