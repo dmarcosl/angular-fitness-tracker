@@ -20,7 +20,7 @@ export class CurrentTrainingComponent implements OnInit {
 
   ngOnInit() {
     this.progress = 0;
-    this.exercise = this.trainingService.getRunningExercises();
+    this.exercise = this.trainingService.getRunningExercise();
     this.initTimer();
   }
 
